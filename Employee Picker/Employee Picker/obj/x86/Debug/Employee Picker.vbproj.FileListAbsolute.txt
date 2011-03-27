@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\bin\Debug\Employee Picker.exe
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\bin\Debug\Employee Picker.pdb
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\bin\Debug\Employee Picker.xml
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\Employee_Picker.frmPicker.resources
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\Employee_Picker.Resources.resources
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\Employee Picker.exe
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\Employee Picker.xml
+C:\Users\John\Desktop\Random-Employee-Picker\Employee Picker\Employee Picker\obj\x86\Debug\Employee Picker.pdb
